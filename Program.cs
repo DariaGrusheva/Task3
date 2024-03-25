@@ -3,7 +3,7 @@
 // 5, 25  ->  да
 // -4, 16  ->  да
 // 25, 5  ->  да
-// 8,9  ->  нет
+// нет  -> 8, 9
 
 Console.WriteLine("Ведите первое число: ");
 int number1 = Convert.ToInt32(Console.ReadLine());
